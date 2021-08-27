@@ -1,0 +1,18 @@
+<svg class="screen">
+     <rect id="1" class="item row-one column-one"/>
+     <rect id="2" class="item row-two column-one"/>
+     <rect id="3" class="item row-three column-one"/>
+     <rect id="4" class="item row-four column-one"/>
+     <rect id="5" class="item row-one column-two"/>
+     <rect id="6" class="item row-two column-two"/>
+     <rect id="7" class="item row-three column-two"/>
+     <rect id="8" class="item row-four column-two"/>
+     <rect id="9" class="item row-one column-three"/>
+     <rect id="10" class="item row-two column-three"/>  
+     <rect id="11" class="item row-three column-three"/>      
+     <rect id="12" class="item row-four column-three"/>     
+     <rect id="13"  class="item row-one column-four"/>
+     <rect id="14" class="item row-two column-four"/>
+     <rect id="15" class="item row-three column-four"/>
+     <rect id="16" class="item row-four column-four"/>
+</svg>
