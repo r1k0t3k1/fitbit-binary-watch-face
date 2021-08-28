@@ -1,16 +1,25 @@
 <svg class="screen">
-     <rect id="1" class="item row-one column-one"/>
-     <rect id="2" class="item row-two column-one"/>
+     <svg class="item row-one column-one">
+       <text id="1" class="month" font-size="55"></text>
+     </svg>
+     <svg class="item row-two column-one">
+       <text id="2" class="date" font-size="55"></text>
+     </svg>
      <rect id="3" class="item row-three column-one"/>
      <rect id="4" class="item row-four column-one"/>
+  
      <rect id="5" class="item row-one column-two"/>
      <rect id="6" class="item row-two column-two"/>
      <rect id="7" class="item row-three column-two"/>
      <rect id="8" class="item row-four column-two"/>
-     <rect id="9" class="item row-one column-three"/>
+  
+  　 <svg class="item row-one column-three">
+       <text id="9" class="day" font-size="3"></text>
+     </svg>
      <rect id="10" class="item row-two column-three"/>  
      <rect id="11" class="item row-three column-three"/>      
      <rect id="12" class="item row-four column-three"/>     
+    
      <rect id="13"  class="item row-one column-four"/>
      <rect id="14" class="item row-two column-four"/>
      <rect id="15" class="item row-three column-four"/>

@@ -7,6 +7,19 @@
   height: 25%;
 }
 
+.month {
+  text-length: 2;
+  x: 25%;
+}
+.date {
+  text-length: 2;
+  x: 25%;
+}
+.day {
+  text-length: 3;
+  x: 25%;
+}
+
 .row-one {
   y :0%;
 }
