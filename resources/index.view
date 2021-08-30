@@ -1,5 +1,5 @@
-<svg class="screen">
-     <svg class="item row-one column-one">
+<svg class="screen" viewport-fill="gray">
+<!--      <svg class="item row-one column-one">
        <text id="1" class="month" font-size="55"></text>
      </svg>
      <svg class="item row-two column-one">
@@ -23,5 +23,32 @@
      <rect id="13"  class="item row-one column-four"/>
      <rect id="14" class="item row-two column-four"/>
      <rect id="15" class="item row-three column-four"/>
-     <rect id="16" class="item row-four column-four"/>
+     <rect id="16" class="item row-four column-four"/> -->
+  <rect x="50%-85" y="50%-90" width="170" height="250" fill="black"/>
+	<rect x="50%-60" y="50%-100" width="50" height="10" />
+	<rect x="50%" y="50%-100" width="20" height="10" />
+
+	<rect id="1" x="50%-65" y="50%-75" width="25" height="25" fill="gray"/>
+	<rect id="5" x="50%-30" y="50%-75" width="25" height="25" fill="gray" />
+	<rect id="9" x="50%+5" y="50%-75" width="25" height="25" fill="gray" />
+	<rect id="13" x="50%+40" y="50%-75" width="25" height="25" fill="gray" />
+
+	<rect id="2" x="50%-65" y="50%-40" width="25" height="25" fill="gray" />
+	<rect id="6" x="50%-30" y="50%-40" width="25" height="25" fill="gray" />
+	<rect id="10" x="50%+5" y="50%-40" width="25" height="25" fill="gray" />
+	<rect id="14" x="50%+40" y="50%-40" width="25" height="25" fill="gray" />
+  
+  <rect id="3" x="50%-65" y="50%-5" width="25" height="25" fill="gray" />
+	<rect id="7" x="50%-30" y="50%-5" width="25" height="25" fill="gray" />
+	<rect id="11" x="50%+5" y="50%-5" width="25" height="25" fill="gray" />
+	<rect id="15" x="50%+40" y="50%-5" width="25" height="25" fill="gray" />
+  
+  <rect id="4" x="50%-65" y="50%+30" width="25" height="25" fill="gray" />
+	<rect id="8" x="50%-30" y="50%+30" width="25" height="25" fill="gray" />
+	<rect id="12" x="50%+5" y="50%+30" width="25" height="25" fill="gray" />
+	<rect id="16" x="50%+40" y="50%+30" width="25" height="25" fill="gray" />
+
+
+	<rect x="50%-22" y="50%+100" width="20" height="50" fill="gray" />
+	<rect x="50%+2" y="50%+100" width="20" height="50" fill="gray" />
 </svg>

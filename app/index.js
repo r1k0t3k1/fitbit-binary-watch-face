@@ -32,15 +32,9 @@ clock.ontick = (evt) => {
   for (let i = 0; i <= 15; i++) {
     const item = document.getElementById((i+1).toString());
     if(binaryTime.substr(i,1)==='1'){
-          item.style.fill = 'white';
+          item.style.fill = 'yellow';
     }else{
-      item.style.fill = 'black';
+      item.style.fill = 'gray';
     }
   }
-  document.getElementById('1').text = month;
-  document.getElementById('1').style.fill = 'white';
-  document.getElementById('2').text = date;
-  document.getElementById('2').style.fill = 'white';
-  document.getElementById('9').text = util.getDay(day);
-  document.getElementById('9').style.fill = 'white';
 }
